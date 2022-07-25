@@ -25,3 +25,4 @@
 	
 # And certain folders, regardless of content
 !*assets/*
+!*public/*
