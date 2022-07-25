@@ -17,6 +17,10 @@
 !*.yaml
 !*.json
 !*.tsx
+!*.ts
+!*.css
+!*.svg
+!*.html
 !*.md
 	
 # And certain folders, regardless of content
